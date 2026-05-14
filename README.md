@@ -1,6 +1,5 @@
 # english-questionszip
 아이의 영어 사고력을 깨우는 실전 질문 30
-<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
