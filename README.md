@@ -1,4 +1,10 @@
 # english-questionszip
+<!-- 파일 다운로드 버튼 예시 -->
+<div style="text-align: center; margin: 20px 0;">
+  <a href="english-questions.zip" download style="background-color: #FF7F5C; color: white; padding: 10px 20px; border-radius: 50px; text-decoration: none; font-weight: bold;">
+    📥 전체 질문 파일(ZIP) 다운로드
+  </a>
+</div>
 아이의 영어 사고력을 깨우는 실전 질문 30
 <html lang="ko">
 <head>
